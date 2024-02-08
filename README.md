@@ -74,6 +74,12 @@ Start here: [irs.gov/freefile][1]. You're presented with a decision to make:
    anyway) to use as a reference when filling out what is essentially the raw
    1040 (and any additional forms you add along the way).
 
+   > Note: after e-filing with Free File Fillable Forms, if there was an
+   > immediate rejection due to a validation issue (e.g. the previous year's
+   > AGI or PIN code are incorrect, etc.) it's possible you will not receive a
+   > notification email. After filing, make sure to check back often to see the
+   > status of your tax return.
+
 ## State
 If your state requires filing state income taxes, as most do, you'd normally
 file them after completing the federal form 1040 first. Even if you did not
